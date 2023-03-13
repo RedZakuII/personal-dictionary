@@ -1,0 +1,12 @@
+[submodule "steno-dictionaries"]
+	path = steno-dictionaries
+	url = git@github:aerickt/steno-dictionaries
+[submodule "emily-modifiers"]
+	path = emily-modifiers
+	url = git@github:EPLHREU/emily-modifiers.git
+[submodule "emily-symbols"]
+	path = emily-symbols
+	url = git@github:EPLHREU/emily-symbols.git
+[submodule "jeff-phrasing"]
+	path = jeff-phrasing
+	url = git@github:jthlim/jeff-phrasing
