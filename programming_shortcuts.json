@@ -1,0 +1,6 @@
+{
+"+EUPB": "{#alt(return)}",
+"STPHA*EUBG": "{MODE:SNAKE}",
+"KA*EPL": "{MODE:CAMEL}",
+"KO*FPBT": "{MODE:SET_SPACE:_}{MODE:CAPS}"
+}
